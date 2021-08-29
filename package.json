@@ -1,0 +1,21 @@
+{
+    "name": "Blahajcode",
+    "displayName": "BlahajCode",
+    "description": "Blahaj-ify your VS-Code Experience",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "BlahajCode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BlahajCode-color-theme.json"
+            }
+        ]
+    }
+}
