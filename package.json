@@ -7,14 +7,14 @@
         "vscode": "^1.59.0"
     },
     "categories": [
-        "Themes"
+        "Theme"
     ],
     "contributes": {
-        "themes": [
+        "theme": [
             {
                 "label": "BlahajCode",
                 "uiTheme": "vs-dark",
-                "path": "./themes/BlahajCode-color-theme.json"
+                "path": "./theme/BlahajCode-color-theme.json"
             }
         ]
     }
